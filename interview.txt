@@ -1,0 +1,37 @@
+How much memory does a class occupy ?
+What is The destructor ?
+what is a copy constructor?
+Are there any limitation of inheritance ?
+what are the various types of inheritance ?
+How is data abstraction accomplished ?
+what is meant by exception handling ?
+what is abstract class differ than interfaces ?
+what is the diffrence between static and instance member ?
+How overloading is a compiled time polymorphism and Overriding is dynamic or runtime polymorphism
+What are types of constructor [c++ , c# , Java]
+what are the types of oop in js
+what is prototype inheritance 
+what is the diffrence betweent interfaces and traits [php]
+what is magic methods in php 
+Advanced Questions 
+========================================================
+What is Association , Aggregation , Composition
+What is the diffrence between inheritance and composition
+=========================================================
+Html5
+Css3
+Js + [Ts]
+git
+bootstrap
+Angualr/React/Vue + firebase++
+Sass
+[template engine [pug.js / ejs/ handlebars]]
+=============================================
+Algorithms
+Data structure
+Design Patterns
+==============================================
+Php + oop
+Mysql [sql] + [mongodb ++ => no sql]
+Laravel
+firebase
